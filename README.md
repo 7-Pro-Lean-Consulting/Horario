@@ -1,4 +1,5 @@
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/146e7652-8d46-419d-ad27-c141073cbdda)
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b1e8a591-e123-4b61-9d9c-d1a0577c23be)
+
 
 
 
