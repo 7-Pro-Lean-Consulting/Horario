@@ -12,10 +12,6 @@
 # Projeto  ( API )
 - Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
 
-**<span style="background-color: #f0ad4e">Sprint</span>** | **<span style="background-color: #5bc0de">Previsão </span>** | **<span style="background-color: #5cb85c">Status</span>** |
-|-------------------------------------------------------------|-------------------------------------------------------------|
-
-
 | Sprint   |Previsãos |     Status
 |----------|----------|--------------|
 | Kick off | 12/03/24 | concluído    |
