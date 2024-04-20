@@ -21,7 +21,7 @@
 | Sprint 4 | Dado 14  | Dado 15      |
 | Dado 16  | Dado 17  | Dado 18      |
 
-# Micro Certificações](#Micro-Certificações)
+# Micro Certificações
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/6b8b053b-f121-42e4-b7ac-ea61c94f4e0b)
 
