@@ -1,6 +1,5 @@
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/0dd35df2-8d23-4fd4-b548-69ffe93fd7f1)
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/146e7652-8d46-419d-ad27-c141073cbdda)
 
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/2925c6ce-82f8-455b-8f2e-1d5ef67e595e)
 
 
 
