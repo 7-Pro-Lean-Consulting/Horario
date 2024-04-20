@@ -3,15 +3,7 @@
 
 # Índice 
 - [Projeto ( API )](#Projeto ( API ))
-- [Micro Certificações](#Micro Certificações)
-- [Micro Certificações](#Micro Certificações)
-- [Título 3](#titulo3)
-
-
-
-
-
-- [Micro Certificações](#Micro Certificações)
+- [Micro Certificações](#Micro-Certificações)
 - [Equipe](#Equipe3)
 - [Objetivo do projeto](#Objetivo do projeto)
 - - [Título 1](#titulo1)
