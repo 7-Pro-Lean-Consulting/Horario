@@ -14,13 +14,25 @@
 
 **<span style="background-color: #f0ad4e">Sprint</span>** | **<span style="background-color: #5bc0de">Previsão </span>** | **<span style="background-color: #5cb85c">Status</span>** |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Dado 1                                                      | Dado 2                                                      | Dado 3                                                      |
-| Dado 4                                                      | Dado 5                                                      | Dado 6                                                      |
+Kick off                                                      |12/03/2024  
+| Dado 3                                                      |
+| Dado 4 
+| Dado 5   
+| Dado 6                                                      |
 
+   
+   
+   
+   
+   
+   
+   
+   
    | Sprint | Previs| Coluna 3 |
 |----------|----------|----------|
 | Dado 1   | Dado 2   | Dado 3   |
-| Dado 4   | Dado 5   | Dado 6   |
+| Dado 4 
+| Dado 5   | Dado 6   |
 
 
 
