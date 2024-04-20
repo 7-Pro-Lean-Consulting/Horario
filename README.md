@@ -25,12 +25,8 @@
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/6b8b053b-f121-42e4-b7ac-ea61c94f4e0b)
 
- #Equipe
+ # Equipe
+ 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/e8a4da3b-72a9-4f68-ab11-5d05cc235d79)
 
-<table>
-  <tr>
-    <td style="background-color: blue; color: white;">Azul</td>
-    <td style="background-color: green; color: white;">Verde</td>
-  
 
