@@ -3,8 +3,8 @@
 
 # Índice 
 - [Projeto ( API )](#Projeto ( API ))
-- [Micro Certificaçõ](# Micro Certificaçõ)
-- [Título 2](#titulo2)
+- [Micro Certificações](#Micro Certificações)
+- [Micro Certificações](#Micro Certificações)
 - [Título 3](#titulo3)
 
 
