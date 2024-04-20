@@ -14,7 +14,7 @@
 
 **<span style="background-color: #f0ad4e">Sprint</span>** | **<span style="background-color: #5bc0de">Previsão </span>** | **<span style="background-color: #5cb85c">Status</span>** |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-Kick off                                                      |12/03/2024  
+Kick off                                                      |12/03/2024                                                      Concluído
 | Dado 3                                                      |
 | Dado 4 
 | Dado 5   
