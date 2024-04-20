@@ -5,7 +5,7 @@
 - [Projeto ( API )](#Projeto ( API ))
 - [Micro Certificações](#Micro-Certificações)
 - [Equipe](#Equipe)
--[Objetivo do projeto](#Objetivo-do-projeto)
+- [Objetivo do projeto](#Objetivo-do-projeto)
 - [Recursos e Apresentações das Sprints](#Recursos-e-Apresentações-das-Sprints)
 - [Cronogramas das sprints](#Cronogramas-das-sprints)
 - [Backlog do Produto](#Backlog-do-Produto)
