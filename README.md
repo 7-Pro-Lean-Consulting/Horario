@@ -13,26 +13,17 @@
 - Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
 
 **<span style="background-color: #f0ad4e">Sprint</span>** | **<span style="background-color: #5bc0de">Previsão </span>** | **<span style="background-color: #5cb85c">Status</span>** |
-|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-Kick off                                                      |12/03/2024                                                      Concluído
-| Dado 3                                                      |
-| Dado 4 
-| Dado 5   
-| Dado 6                                                      |
+|-------------------------------------------------------------|-------------------------------------------------------------|
 
-   
-   
-   
-   
-   
-   
-   
-   
-   | Sprint | Previs| Coluna 3 |
+
+|| Sprint | |Previsãos|Status
 |----------|----------|----------|
-| Dado 1   | Dado 2   | Dado 3   |
-| Dado 4 
-| Dado 5   | Dado 6   |
+| Kick off | 12/03/24| concluído |
+| Sprint 1 | 14/03/24| concluído |
+| Sprint 2 | 05/05/24| Em andamento |
+| sprint 3 | Dado 11  | Dado 12  |
+| Sprint 4 | Dado 14  | Dado 15  |
+| Dado 16  | Dado 17  | Dado 18  |
 
 
 
