@@ -38,5 +38,4 @@
  
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/e8a4da3b-72a9-4f68-ab11-5d05cc235d79)
 
-## <i ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/527a2839-49bd-40f1-b83c-10b3a7616554)
-="fas fa-github"></i> Título
+## <i ![image]="fas fa-github"></i> Título
