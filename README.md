@@ -21,6 +21,9 @@
 | Sprint 4 | Dado 14  | Dado 15      |
 | Dado 16  | Dado 17  | Dado 18      |
 
-
-
+<table>
+  <tr>
+    <td style="background-color: blue; color: white;">Azul</td>
+    <td style="background-color: green; color: white;">Verde</td>
+  
 
