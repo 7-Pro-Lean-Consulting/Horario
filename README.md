@@ -38,6 +38,9 @@
  
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/e8a4da3b-72a9-4f68-ab11-5d05cc235d79)
 
-"![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/5536f78f-c7df-40be-9fb9-15477cd4be0b)# objetivo
-
+<p align="left">
+  <![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/56e4abbb-741d-41c5-9c8a-f791eb4d6e3b)
+width="100" src="caminho/para/sua/imagem.jpg">
+  <strong>Objetivo</strong>
+</p>
 
