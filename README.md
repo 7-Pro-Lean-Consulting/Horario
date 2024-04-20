@@ -4,19 +4,13 @@
 # Índice 
 - [Projeto ( API )](#Projeto ( API ))
 - [Micro Certificações](#Micro-Certificações)
-- [Equipe](#Equipe3)
-- [Objetivo do projeto](#Objetivo do projeto)
-- - [Título 1](#titulo1)
-- [Título 2](#titulo2)
-- [Título 3](#titulo3)
+- [Equipe](#Equipe)
+-[Objetivo do projeto](#Objetivo-do-projeto)
+- [Recursos e Apresentações das Sprints](#Recursos-e-Apresentações-das-Sprints)
+- [Cronogramas das sprints](#Cronogramas-das-sprints)
+- [Backlog do Produto](#Backlog-do-Produto)
 
-- Recursos e Apresentações das Sprints
-- Cronogramas das sprints
-- Backlog do Produto
-- 
--
--
-  
+
 
 
 
