@@ -1,4 +1,5 @@
 # Apredizado por Projeto Integrador ( API )
+# Aprendizado por Projeto Integrador (💻 API)
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/8d800ac0-40bd-4e4f-9698-af51b79427ff)
 
