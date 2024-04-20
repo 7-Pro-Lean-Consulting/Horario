@@ -4,7 +4,7 @@
 # Índice 
 
 
-- [**Micro Certificações**](#titulo1) <span style="color: blue;">&#9632;</span>
+- [**Micro Certificações**]<span style="color: blue;">&#9632;</span>
 - [**Título 2**](#titulo2) <span style="color: blue;">&#9632;</span>
 - [**Título 3**](#titulo3) <span style="color: blue;">&#9632;</span>
 * Projeto ( API )
