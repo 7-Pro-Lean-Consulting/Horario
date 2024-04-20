@@ -1,6 +1,5 @@
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ebdbfcb9-249e-41eb-b93f-e565492d6cd5)
 
-# Apredizado por Projeto Integrador ( API )
+      # Apredizado por Projeto Integrador ( API )
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/7be3ca55-e7fc-44a6-85ab-dacd87a4d131)
 
