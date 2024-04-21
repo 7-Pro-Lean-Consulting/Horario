@@ -25,9 +25,9 @@
 | Kick off | 12/03/24 | concluído    |
 | Sprint 1 | 14/03/24 | concluído    |
 | Sprint 2 | 05/05/24 | Em andamento |
-| sprint 3 | Dado 11  | Dado 12      |
-| Sprint 4 | Dado 14  | Dado 15      |
-| Dado 16  | Dado 17  | Dado 18      |
+| sprint 3 |26/05/24  | Dado 12      |
+| Sprint 4 |16/06/24  | Dado 15      |
+| feira de soluções  | 27/06/24 | Dado 18      |
 
 # 🎓Micro Certificações 
 
