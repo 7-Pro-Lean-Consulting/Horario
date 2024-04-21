@@ -58,7 +58,7 @@
   ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b653a019-731c-43e8-83fe-a772f1ed7cd0)
  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/08c0cb08-807e-46e5-ab89-94a9592489db)
 
-  Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
+  ## Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
 
 # Expansão da presença online e investimento em marketing digital:
 - Investir em campanhas de marketing digital segmentadas para alcançar novos clientes.
