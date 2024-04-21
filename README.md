@@ -27,7 +27,7 @@
 | Sprint 2 | 05/05/24 | Em andamento |
 | sprint 3 |26/05/24  | Dado 12      |
 | Sprint 4 |16/06/24  | Dado 15      |
-| feira de soluções  | 27/06/24 | Dado 18      |
+| Feira de soluções  | 27/06/24 | Dado 18      |
 
 # 🎓Micro Certificações 
 
