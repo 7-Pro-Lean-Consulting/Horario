@@ -91,6 +91,6 @@
 - Adaptar a estratégia de marketing e vendas para atender às necessidades e preferências dos clientes em diferentes regiões.
 - Implementar essas estratégias de forma integrada e monitorar regularmente os resultados pode ajudar a impulsionar as vendas e reduzir os custos, aproveitando ao máximo as oportunidades identificadas.
 
-
+# Sprint 2
 
 
