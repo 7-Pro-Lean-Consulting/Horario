@@ -49,8 +49,14 @@
 
 - Este estudo não só busca detectar falhas, mas também visa fornecer recomendações acionáveis e práticas para promover uma cultura organizacional mais eficiente e resiliente. Ao final, nosso objetivo é capacitar a Doce Sabor a alcançar todo o seu potencial, impulsionando sua competitividade e sucesso sustentável no mercado."
 # 📊Recursos e Apresentações das Sprints 
-Sprint 1
+
+# Sprint 1
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
+  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/a72654b4-5331-447d-b4a5-ae7851961ae4)
+  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b653a019-731c-43e8-83fe-a772f1ed7cd0)
+  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/0aa1dea5-3486-49b2-96af-72ea7f142dc8)
+
+
 
