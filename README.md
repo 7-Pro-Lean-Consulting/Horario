@@ -48,7 +48,7 @@
 - Por meio de uma abordagem analítica e crítica, pretende-se oferecer insights valiosos sobre a estrutura interna da Doce Sabor. Ao identificar lacunas ou pontos problemáticos na organização, seremos capazes de desenvolver um plano abrangente de melhorias, alinhado com os objetivos e valores da empresa.
 
 - Este estudo não só busca detectar falhas, mas também visa fornecer recomendações acionáveis e práticas para promover uma cultura organizacional mais eficiente e resiliente. Ao final, nosso objetivo é capacitar a Doce Sabor a alcançar todo o seu potencial, impulsionando sua competitividade e sucesso sustentável no mercado."
-
+# 📊Recursos e Apresentações das Sprints 
 
 
 
