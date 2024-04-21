@@ -56,8 +56,5 @@
 - Explorar maneiras de aumentar as vendas ✅
   ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/a72654b4-5331-447d-b4a5-ae7851961ae4)
   ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b653a019-731c-43e8-83fe-a772f1ed7cd0)
-  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/0aa1dea5-3486-49b2-96af-72ea7f142dc8)
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/486bdd58-d28b-4099-a96e-233df63722a3)
-
-
+  ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/db08b090-7205-434d-8302-f9adb1e06235)
 
