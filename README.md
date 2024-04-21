@@ -49,6 +49,8 @@
 
 - Este estudo não só busca detectar falhas, mas também visa fornecer recomendações acionáveis e práticas para promover uma cultura organizacional mais eficiente e resiliente. Ao final, nosso objetivo é capacitar a Doce Sabor a alcançar todo o seu potencial, impulsionando sua competitividade e sucesso sustentável no mercado."
 # 📊Recursos e Apresentações das Sprints 
-
-
+Sprint 1
+- SWOT ✅
+- Como reduzir custos ✅
+- Explorar maneiras de aumentar as vendas ✅
 
