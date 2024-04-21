@@ -94,4 +94,8 @@
 
 # Sprint 2
 
+- Previsão de Demanda ✅
+
+- 
+
 
