@@ -50,8 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
 - 
-   https://img.youtube.com/vi/oVGBSKrMFJM&t=15s/0.jpg
-
+- [![Assistir ao vídeo](https://github.com/usuario/repositorio/raw/main/images/miniatura.jpg)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
 
 
   
