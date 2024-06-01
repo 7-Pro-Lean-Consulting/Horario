@@ -49,8 +49,8 @@
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
-- https://img.youtube.com/vi/watch?v=oVGBSKrMFJM&t=15s.jpg
-
+- [![Assistir ao vídeo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+  
 
   ## Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
 
