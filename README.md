@@ -49,6 +49,10 @@
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
+- https://img.youtube.com/vi/[VIDEO_ID](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)/0.jpg
+
+
+- 
 https://github.com/7-Pro-Lean-Consulting/Horario/commit/60ec4e5366a57f8c25c52cadf01c4af702528542#commitcomment-142634727
 
 
