@@ -38,13 +38,10 @@
 ![IMAGEM DA EQUIPE](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/3b840903-654d-4287-83d1-8b75fc0c3d79)
 
 # 🎯Objetivo
-- O propósito deste estudo é realizar uma análise detalhada da estrutura e da organização da empresa Doce Sabor. O foco será identificar quaisquer possíveis desafios ou desacertos presentes na atual organização da empresa, a fim de fornecer recomendações valiosas para melhorias significativas em suas operações.
+- O propósito deste estudo é analisar detalhadamente a estrutura e a organização da empresa Doce Sabor, identificando desafios e desacertos na atual organização para fornecer recomendações de melhorias significativas. A investigação examinará práticas e procedimentos organizacionais da Doce Sabor, destacando áreas de preocupação ou oportunidades de aprimoramento, com o objetivo de oferecer soluções eficazes e estratégias adaptáveis para otimizar o desempenho e impulsionar o sucesso comercial da empresa.
 
-- A Doce Sabor é o objeto central desta investigação, e o objetivo é examinar cuidadosamente suas práticas e procedimentos organizacionais. Ao destacar áreas de preocupação ou oportunidades de aprimoramento, este estudo visa oferecer soluções eficazes e estratégias adaptáveis para otimizar o desempenho e impulsionar o sucesso comercial da empresa.
-
-- Por meio de uma abordagem analítica e crítica, pretende-se oferecer insights valiosos sobre a estrutura interna da Doce Sabor. Ao identificar lacunas ou pontos problemáticos na organização, seremos capazes de desenvolver um plano abrangente de melhorias, alinhado com os objetivos e valores da empresa.
-
-- Este estudo não só busca detectar falhas, mas também visa fornecer recomendações acionáveis e práticas para promover uma cultura organizacional mais eficiente e resiliente. Ao final, nosso objetivo é capacitar a Doce Sabor a alcançar todo o seu potencial, impulsionando sua competitividade e sucesso sustentável no mercado."
+- A abordagem analítica e crítica pretende fornecer insights valiosos sobre a estrutura interna, identificar lacunas ou pontos problemáticos e desenvolver um plano abrangente de melhorias alinhado com os objetivos e valores da empresa. O estudo busca não só detectar falhas, mas também fornecer recomendações práticas para promover uma cultura organizacional mais eficiente e resiliente, capacitando a Doce Sabor a alcançar seu potencial máximo e garantir competitividade e sucesso sustentável no mercado
+  
 # 📊Recursos e Apresentações das Sprints 
 
 # Sprint 1
