@@ -72,8 +72,8 @@ A classificação ABC é uma técnica de gestão de estoque que categoriza os it
 ## Tecnologias Utilizadas
 ### Produto 
 - Sprint 1
-- Análise SWOT 
-- Reduzção de  custos
+  - Análise SWOT 
+  - Reduzção de  custos
 - Sprint 2
   - Previsão de demanda 
 - Sprint 3
