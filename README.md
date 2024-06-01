@@ -19,13 +19,24 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 - Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
 
 | Sprint   |Previsão |     Status
-|----------|----------|------------|
+|----------|----------|------------| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) |
 | Kick off | 12/03/24 | concluído  |
 | Sprint 1 | 14/03/24 | concluído  |
 | Sprint 2 | 05/05/24 | concluído  |
 | sprint 3 |26/05/24  | concluído  |
 | Sprint 4 |16/06/24  | concluído  |
 | Feira de soluções  | Em andamento|
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
+|01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
+|02|  25/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
+|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
+|04| 06/12/2023 | cancelada |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) | 
+|Feira de Soluções| 12/11/2023 |concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI) | 
+
+
+
 
 # 🎓Micro Certificações 
 
