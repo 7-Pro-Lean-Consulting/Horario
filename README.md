@@ -49,6 +49,7 @@ A abordagem analítica e crítica pretende fornecer insights valiosos sobre a es
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
+  
   O objetivo da análise SWOT para a empresa "Doce Sabor" é identificar os pontos fortes, fraquezas, oportunidades e ameaças específicas do negócio no setor alimentício. Isso permitirá à empresa entender sua posição no mercado, destacar áreas de vantagem competitiva, abordar áreas que precisam de melhoria, capitalizar oportunidades de crescimento e mitigar ameaças potenciais. Essa análise ajudará a empresa a formular estratégias eficazes para alcançar seus objetivos e manter sua competitividade no mercado de alimentos.
 
  [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
@@ -56,6 +57,7 @@ A abordagem analítica e crítica pretende fornecer insights valiosos sobre a es
    
 # Sprint 2
 - Previsão de Demanda ✅
+  
 A previsão de demanda para a empresa "Doce Sabor" é estimar com precisão a quantidade de produtos que os clientes irão comprar em um determinado período de tempo. Isso permite à empresa planejar sua produção, gerenciar estoques de forma eficiente e atender às necessidades dos clientes de maneira adequada, evitando excesso ou falta de produtos. Com uma previsão de demanda precisa, a empresa pode reduzir custos operacionais, melhorar o serviço ao cliente e maximizar sua lucratividade.
 
 [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
