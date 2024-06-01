@@ -27,6 +27,14 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 |04| 16/06/2024 | Fazendo   |  [Ver Relatório                                                                                                               | 
 |Feira de Soluções| 16/06/2024| [Ver Relatório                                                                                                              | 
 
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 30/08/2023 | concluído| [Ver Relatório]https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf)) | 
+|01 | 27/09/2023 | concluído | [Ver Relatório] 
+|02|  25/10/2023| concluído |[Ver Relatório] | 
+|03| 29/11/2023 | concluído |[Ver Relatório] | 
+|04| 06/12/2023 | cancelada |[Ver Relatório] | 
+|Feira de Soluções| 12/11/2023 |concluído |[ | 
 
 
 
