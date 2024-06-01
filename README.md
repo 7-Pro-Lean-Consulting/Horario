@@ -56,9 +56,12 @@
    
 # Sprint 2
 - Previsão de Demanda ✅
-
-
+- A previsão de demanda para a empresa "Doce Sabor" é estimar com precisão a quantidade de produtos que os clientes irão comprar em um determinado período de tempo. Isso permite à empresa planejar sua produção, gerenciar estoques de forma eficiente e atender às necessidades dos clientes de maneira adequada, evitando excesso ou falta de produtos. Com uma previsão de demanda precisa, a empresa pode reduzir custos operacionais, melhorar o serviço ao cliente e maximizar sua lucratividade.
 
 [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
+# Sprint 3
+- Classificação ABC ✅
+A classificação ABC é uma técnica de gestão de estoque que categoriza os itens com base em sua importância relativa para o negócio. Dividindo os itens em três classes: Classe A, composta por itens de alto valor que representam uma pequena parte do estoque, mas têm um grande impacto na receita; Classe B, que inclui itens de valor intermediário, ocupando uma proporção moderada do estoque e contribuindo de forma moderada para a receita; e Classe C, composta por itens de baixo valor que representam a maior parte do estoque, mas contribuem menos para a receita total. Essa classificação auxilia na priorização dos recursos de gestão de estoque, otimizando o controle e maximizando a eficiência operacional.
 
+[![image]!(https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/4c341a4e-f3c4-4888-94e1-bcce45fb2bb3)](https://www.youtube.com/watch?v=8QkSUYQqCLY)
