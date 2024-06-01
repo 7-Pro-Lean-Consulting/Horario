@@ -49,6 +49,7 @@
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
+https://img.youtube.com/vi/oVGBSKrMFJM/0.jpg
 
 - [![7 Pro Lean Consulting](https://img.youtube.com/vi/_oVGBSKrMFJM&t=15s/0.jpg)](https://youtu.be/_oVGBSKrMFJM&t=15s)
 - 
