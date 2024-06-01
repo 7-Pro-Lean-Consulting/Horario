@@ -50,7 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
 - 
-- [![Assistir ao vídeo](https://github.com/usuario/repositorio/raw/main/images/miniatura.jpg)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
+- [![Assistir ao vídeo](https://https://private-user-images.githubusercontent.com/31110739/335827188-d90bd68e-8ad4-4978-a895-ddc47de510b5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyNzc2MTAsIm5iZiI6MTcxNzI3NzMxMCwicGF0aCI6Ii8zMTExMDczOS8zMzU4MjcxODgtZDkwYmQ2OGUtOGFkNC00OTc4LWE4OTUtZGRjNDdkZTUxMGI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDIxMjgzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMzc5ZDcyNTA0ODQzODUxMTU1NzkwYzM4MjU0YmVjMGI3MzFmMDFjMDIyNDE1ZmExYWIxZTFjOTUwNGEzYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wMKNDeJh16AeO3Sc5DFXD7S4DXVjPdUkFGnWaHt1RQc)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
 
 
   
