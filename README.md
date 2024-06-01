@@ -28,12 +28,12 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 | Feira de soluções  | Em andamento|
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
-|01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
-|02|  25/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
-|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
-|04| 06/12/2023 | cancelada |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) | 
-|Feira de Soluções| 12/11/2023 |concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI) | 
+|Kick Off | 12/05/2024 | concluído| 
+|01 | 14/03/2024 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
+|02|  05/05/2024| concluído | | 
+|03| 26/05/2024 | concluído || 
+|04| 16+/06/2024 | Fazendo | | 
+|Feira de Soluções| 16/06/2024 | | | 
 
 
 
