@@ -50,13 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
 
-- [![Assistir ao vídeo](![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/0ca7d928-9a5d-430b-8a18-65ac46c1a422)
-)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
-
-- 
-- [![Assistir ao vídeo](https://![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/c644020f-1209-4900-accf-3bd274653761)
-)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
-
+-[![Assistir ao vídeo](https://github.com/usuario/repositorio/raw/main/images/miniatura.jpg)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
 
   
   ## Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
