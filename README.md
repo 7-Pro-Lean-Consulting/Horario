@@ -49,6 +49,9 @@
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
+
+- [![Assistir ao vídeo](https://img.youtube.com/vi/oVGBSKrMFJM&t=15s/0.jpg)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
+
 - https://img.youtube.com/vi/[VIDEO_ID](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)/0.jpg
 
 
