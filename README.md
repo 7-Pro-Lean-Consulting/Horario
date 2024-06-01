@@ -35,7 +35,7 @@
 ## 👥 Equipe
 
  
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/e8a4da3b-72a9-4f68-ab11-5d05cc235d79)
+![IMAGEM DA EQUIPE](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/3b840903-654d-4287-83d1-8b75fc0c3d79)
 
 # 🎯Objetivo
 - O propósito deste estudo é realizar uma análise detalhada da estrutura e da organização da empresa Doce Sabor. O foco será identificar quaisquer possíveis desafios ou desacertos presentes na atual organização da empresa, a fim de fornecer recomendações valiosas para melhorias significativas em suas operações.
