@@ -80,3 +80,13 @@ A classificação ABC é uma técnica de gestão de estoque que categoriza os it
   - Curva ABC 
 - Sprint 4
   - Ideia para um novo segmento
+
+### Tecnológias Específicas/Apoio
+- Excel
+- Power BI
+- PowerPoint
+- Canva
+- Microsoft Teams
+- Git Projects
+- Scrum
+- Brainstorm
