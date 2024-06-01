@@ -1,7 +1,7 @@
 
 # 💻Aprendizado por Projeto Integrador ( API)
 
--Este projeto propõe a implementação do Scrum para melhorar a eficiência e o desempenho das equipes em um ambiente empresarial dinâmico. Priorizando entregas incrementais de alto valor através de ciclos curtos de trabalho (Sprints), o Scrum promove colaboração, transparência e adaptação contínua. Com papéis definidos e responsabilidades claras, busca-se não apenas aumentar a produtividade, mas também cultivar uma cultura de excelência e foco no cliente. A implementação do Scrum visa impulsionar o sucesso da organização no mercado competitivo, inspirando uma mudança positiva na forma de trabalhar e gerando impacto significativo nos resultados.
+Este projeto propõe a implementação do Scrum para melhorar a eficiência e o desempenho das equipes em um ambiente empresarial dinâmico. Priorizando entregas incrementais de alto valor através de ciclos curtos de trabalho (Sprints), o Scrum promove colaboração, transparência e adaptação contínua. Com papéis definidos e responsabilidades claras, busca-se não apenas aumentar a produtividade, mas também cultivar uma cultura de excelência e foco no cliente. A implementação do Scrum visa impulsionar o sucesso da organização no mercado competitivo, inspirando uma mudança positiva na forma de trabalhar e gerando impacto significativo nos resultados.
 
 # 📚Índice  
 - [Projeto ( API )](#Projeto ( API ))
@@ -39,9 +39,9 @@
 ![IMAGEM DA EQUIPE](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/3b840903-654d-4287-83d1-8b75fc0c3d79)
 
 # 🎯Objetivo
-- O propósito deste estudo é analisar detalhadamente a estrutura e a organização da empresa Doce Sabor, identificando desafios e desacertos na atual organização para fornecer recomendações de melhorias significativas. A investigação examinará práticas e procedimentos organizacionais da Doce Sabor, destacando áreas de preocupação ou oportunidades de aprimoramento, com o objetivo de oferecer soluções eficazes e estratégias adaptáveis para otimizar o desempenho e impulsionar o sucesso comercial da empresa.
+O propósito deste estudo é analisar detalhadamente a estrutura e a organização da empresa Doce Sabor, identificando desafios e desacertos na atual organização para fornecer recomendações de melhorias significativas. A investigação examinará práticas e procedimentos organizacionais da Doce Sabor, destacando áreas de preocupação ou oportunidades de aprimoramento, com o objetivo de oferecer soluções eficazes e estratégias adaptáveis para otimizar o desempenho e impulsionar o sucesso comercial da empresa.
 
-- A abordagem analítica e crítica pretende fornecer insights valiosos sobre a estrutura interna, identificar lacunas ou pontos problemáticos e desenvolver um plano abrangente de melhorias alinhado com os objetivos e valores da empresa. O estudo busca não só detectar falhas, mas também fornecer recomendações práticas para promover uma cultura organizacional mais eficiente e resiliente, capacitando a Doce Sabor a alcançar seu potencial máximo e garantir competitividade e sucesso sustentável no mercado
+A abordagem analítica e crítica pretende fornecer insights valiosos sobre a estrutura interna, identificar lacunas ou pontos problemáticos e desenvolver um plano abrangente de melhorias alinhado com os objetivos e valores da empresa. O estudo busca não só detectar falhas, mas também fornecer recomendações práticas para promover uma cultura organizacional mais eficiente e resiliente, capacitando a Doce Sabor a alcançar seu potencial máximo e garantir competitividade e sucesso sustentável no mercado
   
 # 📊Recursos e Apresentações das Sprints 
 
@@ -49,20 +49,20 @@
 - SWOT ✅
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
-- O objetivo da análise SWOT para a empresa "Doce Sabor" é identificar os pontos fortes, fraquezas, oportunidades e ameaças específicas do negócio no setor alimentício. Isso permitirá à empresa entender sua posição no mercado, destacar áreas de vantagem competitiva, abordar áreas que precisam de melhoria, capitalizar oportunidades de crescimento e mitigar ameaças potenciais. Essa análise ajudará a empresa a formular estratégias eficazes para alcançar seus objetivos e manter sua competitividade no mercado de alimentos.
+  O objetivo da análise SWOT para a empresa "Doce Sabor" é identificar os pontos fortes, fraquezas, oportunidades e ameaças específicas do negócio no setor alimentício. Isso permitirá à empresa entender sua posição no mercado, destacar áreas de vantagem competitiva, abordar áreas que precisam de melhoria, capitalizar oportunidades de crescimento e mitigar ameaças potenciais. Essa análise ajudará a empresa a formular estratégias eficazes para alcançar seus objetivos e manter sua competitividade no mercado de alimentos.
 
  [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
 
    
 # Sprint 2
 - Previsão de Demanda ✅
-- A previsão de demanda para a empresa "Doce Sabor" é estimar com precisão a quantidade de produtos que os clientes irão comprar em um determinado período de tempo. Isso permite à empresa planejar sua produção, gerenciar estoques de forma eficiente e atender às necessidades dos clientes de maneira adequada, evitando excesso ou falta de produtos. Com uma previsão de demanda precisa, a empresa pode reduzir custos operacionais, melhorar o serviço ao cliente e maximizar sua lucratividade.
+A previsão de demanda para a empresa "Doce Sabor" é estimar com precisão a quantidade de produtos que os clientes irão comprar em um determinado período de tempo. Isso permite à empresa planejar sua produção, gerenciar estoques de forma eficiente e atender às necessidades dos clientes de maneira adequada, evitando excesso ou falta de produtos. Com uma previsão de demanda precisa, a empresa pode reduzir custos operacionais, melhorar o serviço ao cliente e maximizar sua lucratividade.
 
 [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
 # Sprint 3
 - Classificação ABC ✅
-- 
+ 
 A classificação ABC é uma técnica de gestão de estoque que categoriza os itens com base em sua importância relativa para o negócio. Dividindo os itens em três classes: Classe A, composta por itens de alto valor que representam uma pequena parte do estoque, mas têm um grande impacto na receita; Classe B, que inclui itens de valor intermediário, ocupando uma proporção moderada do estoque e contribuindo de forma moderada para a receita; e Classe C, composta por itens de baixo valor que representam a maior parte do estoque, mas contribuem menos para a receita total. Essa classificação auxilia na priorização dos recursos de gestão de estoque, otimizando o controle e maximizando a eficiência operacional.
 
 [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/4c341a4e-f3c4-4888-94e1-bcce45fb2bb3)](https://www.youtube.com/watch?v=8QkSUYQqCLY)
