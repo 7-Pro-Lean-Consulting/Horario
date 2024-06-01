@@ -57,7 +57,8 @@
 # Sprint 2
 - Previsão de Demanda ✅
 
-[![image](![sprint 2](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
+![sprint 2](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
+[![image](![sprint 2](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
 
