@@ -50,7 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
   # Sprin 1
--[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM))
+ [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM))
 
 
   
