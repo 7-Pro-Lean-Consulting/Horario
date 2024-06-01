@@ -12,7 +12,7 @@
 - [Cronogramas das sprints](#Cronogramas-das-sprints)
 - [Backlog do Produto](#Backlog-do-Produto)
 - [Burndown](#Burndown)
-- [competências Desenvolvidas](#Competências Desenvolvidas)
+- [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Autores](#Autores)
 
 # 🚥Projeto (API) 
