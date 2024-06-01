@@ -1,7 +1,7 @@
 
 # 💻Aprendizado por Projeto Integrador ( API)
 
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/8d800ac0-40bd-4e4f-9698-af51b79427ff)
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/f6073854-3731-4052-80d8-4adabc50cf0b)
 
 
 
