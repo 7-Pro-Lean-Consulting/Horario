@@ -11,18 +11,20 @@
 - [Recursos e Apresentações das Sprints](#Recursos-e-Apresentações-das-Sprints)
 - [Cronogramas das sprints](#Cronogramas-das-sprints)
 - [Backlog do Produto](#Backlog-do-Produto)
-- 
+- Burndown
+- Competências Desenvolvidas
+- Autores
 # 🚥Projeto (API) 
 - Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
 
 | Sprint   |Previsão |     Status
-|----------|----------|--------------|
-| Kick off | 12/03/24 | concluído    |
-| Sprint 1 | 14/03/24 | concluído    |
-| Sprint 2 | 05/05/24 | Em andamento |
-| sprint 3 |26/05/24  | Em andamento |
-| Sprint 4 |16/06/24  | Em andamento |
-| Feira de soluções  | 27/06/24 | Em andamento|
+|----------|----------|------------|
+| Kick off | 12/03/24 | concluído  |
+| Sprint 1 | 14/03/24 | concluído  |
+| Sprint 2 | 05/05/24 | concluído  |
+| sprint 3 |26/05/24  | concluído  |
+| Sprint 4 |16/06/24  | concluído  |
+| Feira de soluções  | Em andamento|
 
 # 🎓Micro Certificações 
 
