@@ -50,7 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
 
--[![Assistir ao vídeo](https://github.com/usuario/repositorio/raw/main/images/miniatura.jpg)](https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s)
+-[![Assistir ao vídeo]([https://github.com/usuario/repositorio/raw/main/images/miniatura.jpg](https://private-user-images.githubusercontent.com/31110739/335827188-d90bd68e-8ad4-4978-a895-ddc47de510b5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyNzgzODMsIm5iZiI6MTcxNzI3ODA4MywicGF0aCI6Ii8zMTExMDczOS8zMzU4MjcxODgtZDkwYmQ2OGUtOGFkNC00OTc4LWE4OTUtZGRjNDdkZTUxMGI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDIxNDEyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3ZTk5YzE5YWUzZDRiYTkwNWFiZGVmNzhkM2NkOGE2N2ZlMjdjNTgyZTNjY2I2NTY5ZTI2MDVjMGI3OWY4MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NLXsZdRV3RRfBKOfOO17USvc35sm91pulmW79STL-3U))]([https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s](https://youtu.be/oVGBSKrMFJM))
 
   
   ## Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
