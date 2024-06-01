@@ -51,7 +51,7 @@
 - Explorar maneiras de aumentar as vendas ✅
 
 -[![Assistir ao vídeo]([![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)
-))]([https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s](https://youtu.be/oVGBSKrMFJM))
+]([https://www.youtube.com/watch?v=oVGBSKrMFJM&t=15s](https://youtu.be/oVGBSKrMFJM))
 
   
   ## Para aumentar as vendas e reduzir custos com as oportunidades listadas, podemos elaborar estratégias específicas para cada uma delas:
