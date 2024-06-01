@@ -50,7 +50,7 @@
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
 - 
-   https://img.youtube.com/vi/oVGBSKrMFJM/0.jpg
+   https://img.youtube.com/vi/oVGBSKrMFJM&t=15s/0.jpg
 
 
 
