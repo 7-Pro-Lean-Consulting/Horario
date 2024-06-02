@@ -97,4 +97,54 @@ A classificação ABC é uma técnica de gestão de estoque que categoriza os it
 - Brainstorm
 - 
 # Backlog do produto
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/475f6046-f058-4a9a-95cf-64f47155d7a7)
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b7d1f01d-4ffd-4dea-a7d8-3c5076198ea2)
+
+
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/c95f49e9-8695-4c86-af64-a128b3ca9266)
+
+
+
+# Competências desenvolvidas
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+
+</details>
+
+
+# Autores
+| Função | Nome |  LinkedIn & GitHub |
+| - | - | - |
+|Product Owner| Marcelo | [![Linkedin Badge]|
+|Scrum Master| Caíque Matos | [![Linkedin Badge]|
+|Team Member| Antoni da Luz | [![Linkedin Badge]|
+|Team Member| Gabriel Cunha | [![Linkedin Badge]|
+|Team Member| Mateus Nakahara | [![Linkedin Badge]|
+|Team Member| Reinaldo Ramos | [![Linkedin Badge]|
+|Team Member| Vinicius de Sá | [![Linkedin Badge]|
+
+
