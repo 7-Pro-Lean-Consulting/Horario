@@ -95,3 +95,6 @@ A classificação ABC é uma técnica de gestão de estoque que categoriza os it
 - Git Projects
 - Scrum
 - Brainstorm
+- 
+# Backlog do produto
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/475f6046-f058-4a9a-95cf-64f47155d7a7)
