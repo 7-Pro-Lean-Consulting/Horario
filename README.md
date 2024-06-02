@@ -17,24 +17,16 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 
 # 🚥Projeto (API) 
 - Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
-
-
-|------|--------|------|--------|
-|Kick Off | 12/05/2024 | concluído|                                                                                                                         |
-|01 | 14/03/2024 | concluído| [Ver Relatório]https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) | 
-|02|  05/05/2024| concluído | [Ver Relatório                                                                                                                | 
-|03| 26/05/2024 | concluído | [Ver Relatório                                                                                                                | 
-|04| 16/06/2024 | Fazendo   |  [Ver Relatório                                                                                                               | 
-|Feira de Soluções| 16/06/2024| [Ver Relatório                                                                                                              | 
+                                                                                                       | 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2023 | concluído| [Ver Relatório]https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf)) | 
-|01 | 27/09/2023 | concluído | [Ver Relatório] 
-|02|  25/10/2023| concluído |[Ver Relatório] | 
-|03| 29/11/2023 | concluído |[Ver Relatório] | 
-|04| 06/12/2023 | cancelada |[Ver Relatório] | 
-|Feira de Soluções| 12/11/2023 |concluído |[ | 
+|Kick Off | 30/08/2023 | concluído| [Ver Relatório]https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf)| 
+|01 | 12/03/2024 | concluído |[Ver Relatório] 
+|02|  14/03/2024| concluído |[Ver Relatório] | 
+|03| 26/05/2024 | concluído |[Ver Relatório] | 
+|04| 16/06/2024 | Fazendo |[Ver Relatório] | 
+|Feira de Soluções| A espera|Fazendo |[ | 
 
 
 
