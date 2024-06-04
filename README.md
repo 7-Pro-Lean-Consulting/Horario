@@ -3,7 +3,6 @@
 
 Este projeto propõe a implementação do Scrum para melhorar a eficiência e o desempenho das equipes em um ambiente empresarial dinâmico. Priorizando entregas incrementais de alto valor através de ciclos curtos de trabalho (Sprints), o Scrum promove colaboração, transparência e adaptação contínua. Com papéis definidos e responsabilidades claras, busca-se não apenas aumentar a produtividade, mas também cultivar uma cultura de excelência e foco no cliente. A implementação do Scrum visa impulsionar o sucesso da organização no mercado competitivo, inspirando uma mudança positiva na forma de trabalhar e gerando impacto significativo nos resultados.
 
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/41891c91-6e9c-47ab-bab3-a85cf5be6243)
 
 # 📚Índice  
 - [Projeto ( API )](#Projeto ( API ))
@@ -23,16 +22,16 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 
 
 
-| Sprint         | Previsão     | Status     | Histórico       | Link          |
-| -------------- | ------------ | ---------- | --------------- | ------------- |
-| Kick Off       | 12/03/2024   | Concluído  | Ver Relatório   |(https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) | 
-| 01             | 14/03/2024   | Concluído  | Ver Relatório   |(https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
-| 02             | 14/03/2024   | Concluído  | Ver Relatório   |(https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
-| 03             | 26/05/2024   | Concluído  | Ver Relatório   |(https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
-| 04             | 16/06/2024   | Fazendo    | Ver Relatório   |(https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
-| Feira de Soluções | A espera  | Fazendo    |  Ver Relatório  | 
+| Sprint         | Previsão     | Status     | Histórico       | 
+| -------------- | ------------ | ---------- | --------------- | 
+| Kick Off       | 12/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) | 
+| 01             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| 02             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| 03             | 26/05/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| 04             | 16/06/2024   | Fazendo    | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| Feira de Soluções | A espera  | Fazendo    |  [Ver Relatório]  | 
 
-
+[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc)
 
 # 🎓Micro Certificações 
 
@@ -104,6 +103,40 @@ A classificação ABC é uma técnica de gestão de estoque que categoriza os it
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/c95f49e9-8695-4c86-af64-a128b3ca9266)
 
+
+## Burndown
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/imagem/burndown.gif" width="80%"/>
+</p>
+
+## Sprint 1 
+- [x] Entendimento das expectativas do cliente
+- [x] BrainStorm
+- [x] Definição da abordagem
+- [x] Preparação das ferramentas
+
+## Sprint 2 
+- [x] Pesquisa de mercado
+- [x] Registro das informações da pesquisa
+- [x] Análise dos dados registrados
+- [x] Criação de táticas estrattégicas para a empresa
+- [x] Planejamento para proximo passo
+      
+## Sprint 3 
+- [x] Análise do layout atual
+- [x] Disposição do ambiente
+- [x] Esboço do layout
+- [x] Layout Oficial
+- [x] Pesquisa por novo imóvel
+- [x] Imoveis selecionados
+- [x] Planejamento para proximo passo
+
+## Sprint 4(Cancelada) 
+- [ ] Pesquisa por novos fornecedores
+- [ ] Contactar fornecedores
+- [ ] Registrar fornecedores
+- [ ] Pesquisa por aplicativos e empresas de delivery
+- [ ] Análise da viabilidade dos meios de entrega encontrados
 
 
 # Competências desenvolvidas
