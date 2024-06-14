@@ -45,10 +45,7 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 ![IMAGEM DA EQUIPE](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/3b840903-654d-4287-83d1-8b75fc0c3d79)
 
 # 🎯Objetivo
-O propósito deste estudo é analisar detalhadamente a estrutura e a organização da empresa Doce Sabor, identificando desafios e desacertos na atual organização para fornecer recomendações de melhorias significativas. A investigação examinará práticas e procedimentos organizacionais da Doce Sabor, destacando áreas de preocupação ou oportunidades de aprimoramento, com o objetivo de oferecer soluções eficazes e estratégias adaptáveis para otimizar o desempenho e impulsionar o sucesso comercial da empresa.
-
-A abordagem analítica e crítica pretende fornecer insights valiosos sobre a estrutura interna, identificar lacunas ou pontos problemáticos e desenvolver um plano abrangente de melhorias alinhado com os objetivos e valores da empresa. O estudo busca não só detectar falhas, mas também fornecer recomendações práticas para promover uma cultura organizacional mais eficiente e resiliente, capacitando a Doce Sabor a alcançar seu potencial máximo e garantir competitividade e sucesso sustentável no mercado
-  
+Realizar estudo da empresa Doce Sabor visando  identificar desafios, oferecer recomendações práticas para melhorar o desempenho e impulsionar o sucesso comercial. buscar identificar lacunas, desenvolvendo um plano de melhorias para promover uma cultura organizacional eficiente e competitiva, alinhada com os objetivos e valores da empresa.
 # 📊Recursos e Apresentações das Sprints 
 
 # Sprint 1
