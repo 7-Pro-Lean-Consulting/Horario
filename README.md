@@ -24,7 +24,7 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 
 | Sprint         | Previsão     | Status     | Histórico       | 
 | -------------- | ------------ | ---------- | --------------- | 
-| Kick Off       | 12/03/2024   | Concluído  | [Ver Relatório]() | 
+| Kick Off       | 12/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Formaliza%C3%A7%C3%A3oEquipe%20GPI%207%20pro%20lean%20.pdf) | 
 | 01             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
 | 02             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%202/Relat%C3%B3rio%20sprint%202.pdf) |
 | 03             | 26/05/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Relatorio.do.projeto.sprint.3.pdf) |
