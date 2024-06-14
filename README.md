@@ -24,11 +24,11 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 
 | Sprint         | Previsão     | Status     | Histórico       | 
 | -------------- | ------------ | ---------- | --------------- | 
-| Kick Off       | 12/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) | 
+| Kick Off       | 12/03/2024   | Concluído  | [Ver Relatório]() | 
 | 01             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
-| 02             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| 02             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%202/Relat%C3%B3rio%20sprint%202.pdf) |
 | 03             | 26/05/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Relatorio.do.projeto.sprint.3.pdf) |
-| 04             | 16/06/2024   | Fazendo    | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/SPRINT%201/Relatorio.do.projeto.sprint.1%20(1).pdf) |
+| 04             | 16/06/2024   | Fazendo    | [Ver Relatório]() |
 | Feira de Soluções | A espera  | Fazendo    |  [Ver Relatório]  | 
 
 [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc)
