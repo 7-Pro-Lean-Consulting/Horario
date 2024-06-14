@@ -45,7 +45,7 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 ![IMAGEM DA EQUIPE](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/3b840903-654d-4287-83d1-8b75fc0c3d79)
 
 # 🎯Objetivo
-Realizar estudo da empresa Doce Sabor visando  identificar desafios, oferecer recomendações práticas para melhorar o desempenho e impulsionar o sucesso comercial. buscar identificar lacunas, desenvolvendo um plano de melhorias para promover uma cultura organizacional eficiente e competitiva, alinhada com os objetivos e valores da empresa.
+Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferecer recomendações práticas para melhorar o desempenho e impulsionar o sucesso comercial. buscar identificar lacunas, desenvolvendo um plano de melhorias para promover uma cultura organizacional eficiente e competitiva, alinhada com os objetivos e valores da empresa.
 # 📊Recursos e Apresentações das Sprints 
 
 # Sprint 1
