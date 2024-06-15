@@ -125,7 +125,7 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - [x] Apresentação
 - [x] Planejamento para proximo passo
 
-## Sprint 4(Cancelada) 
+## Sprint 4
 - [x] Ideia de uma nova empresa/ placa de painéis solares
 - [x] Plano de negócios Canvas!
 - [x] Pesquisa  de dados 
