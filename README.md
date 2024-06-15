@@ -54,7 +54,6 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - Explorar maneiras de aumentar as vendas ✅
   
    [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
-
    
 # Sprint 2
 - Previsão de Demanda ✅
@@ -87,20 +86,19 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - Git Projects
 - Scrum
 - Brainstorm
-- 
+
 # Backlog do produto
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b7d1f01d-4ffd-4dea-a7d8-3c5076198ea2)
 
-
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/c95f49e9-8695-4c86-af64-a128b3ca9266)
+
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/1e4c3107-2491-4d4b-a172-bcc09d42ceb5)
+
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/21cf06d3-d4a8-42da-80d7-f99d2d584f28)
 
 
 ## Burndown
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/imagem/burndown.gif" width="80%"/>
-</p>
-
-![Demonstração da Animação](https://i.imgur.com/SeuGIF.gif)
+![Demonstração da Animação](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Apresenta%C3%A7%C3%A3o1.gif)
 
 
 ## Sprint 1 
@@ -110,27 +108,29 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - [x] Preparação das ferramentas
 
 ## Sprint 2 
-- [x] Pesquisa de mercado
-- [x] Registro das informações da pesquisa
-- [x] Análise dos dados registrados
-- [x] Criação de táticas estrattégicas para a empresa
+- [x] Pesquisa de previsão de  demanda
+- [x] Análise de dados 
+- [x] Previsão de demanda média móvel simples
+- [x] Correção da variância
+- [x]  Relatório
+- [x]  Apresentação
 - [x] Planejamento para proximo passo
       
 ## Sprint 3 
-- [x] Análise do layout atual
-- [x] Disposição do ambiente
-- [x] Esboço do layout
-- [x] Layout Oficial
-- [x] Pesquisa por novo imóvel
-- [x] Imoveis selecionados
+- [x] Pesquisa de curva ABC
+- [x] Análise de dados 
+- [x]Curva ABC
+- [x] Relatório 
+- [x] Apresentação
 - [x] Planejamento para proximo passo
 
 ## Sprint 4(Cancelada) 
-- [ ] Pesquisa por novos fornecedores
-- [ ] Contactar fornecedores
-- [ ] Registrar fornecedores
-- [ ] Pesquisa por aplicativos e empresas de delivery
-- [ ] Análise da viabilidade dos meios de entrega encontrados
+- [x] Ideia de uma nova empresa/ placa de painéis solares
+- [x] Plano de negócios Canvas!
+- [x] Pesquisa  de dados 
+- [x] Relatório 
+- [x] Apresentação
+- [x] Apresentação feira de soluções 
 
 
 # Competências desenvolvidas
@@ -143,10 +143,10 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 | Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★  ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★  ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 </details>
 
 ## Soft Skill (saber comportamental)
@@ -156,8 +156,8 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆  ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
