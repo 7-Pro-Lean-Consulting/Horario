@@ -88,11 +88,12 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - Brainstorm
 
 # Backlog do produto
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/b7d1f01d-4ffd-4dea-a7d8-3c5076198ea2)
+
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/1f7cc84d-8a60-481d-a147-77562430db9e)
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/c95f49e9-8695-4c86-af64-a128b3ca9266)
 
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/1e4c3107-2491-4d4b-a172-bcc09d42ceb5)
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/df5b931a-f195-4312-b42b-073102253bd5)
 
 ![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/21cf06d3-d4a8-42da-80d7-f99d2d584f28)
 
