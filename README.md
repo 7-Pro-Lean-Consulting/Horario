@@ -119,7 +119,7 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 ## Sprint 3 
 - [x] Pesquisa de curva ABC
 - [x] Análise de dados 
-- [x]Curva ABC
+- [x] Curva ABC
 - [x] Relatório 
 - [x] Apresentação
 - [x] Planejamento para proximo passo
