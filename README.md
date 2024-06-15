@@ -100,6 +100,9 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
  <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/imagem/burndown.gif" width="80%"/>
 </p>
 
+![Demonstração da Animação](https://i.imgur.com/SeuGIF.gif)
+
+
 ## Sprint 1 
 - [x] Entendimento das expectativas do cliente
 - [x] BrainStorm
