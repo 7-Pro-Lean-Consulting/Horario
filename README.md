@@ -172,12 +172,11 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Marcelo | [[![Linkedin Badge](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Caíque Matos | [![Linkedin Badge]|
-|Team Member| Antoni da Luz | [![Linkedin Badge]https://www.linkedin.com/in/antonio-da-luz-a21263235/
-|Team Member| Gabriel Cunha | [![Linkedin Badge]|
-|Team Member| Mateus Nakahara | [![Linkedin Badge]|
-|Team Member| Reinaldo Ramos | [![Linkedin Badge]|
-|Team Member| Vinicius de Sá | [![Linkedin Badge]|
+|Product Owner| Marcelo | [[![Linkedin Badge](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+|Scrum Master| Caíque Matos | [![Linkedin Badge](https://www.linkedin.com/in/caique-matos-santos-748a90150/)]()[![GitHub Badge](https://github.com/marcelohenrique2508)
+|Team Member| Antoni da Luz | [![Linkedin Badge](https://www.linkedin.com/in/antonio-da-luz-a21263235/)
+|Team Member| Gabriel Cunha | [![Linkedin Badge](http://www.linkedin.com/in/gabriel-cunha-a0747018b)]() [![GitHub Badge]() [![Linkedin Badge](http://www.linkedin.com/in/gabriel-cunha-a0747018b)
+|Team Member| Mateus Nakahara | [![Linkedin Badge](https://www.linkedin.com/in/matheus-nakahara-0974791bb/)]()[![GitHub Badge](https://github.com/Matheusnak)
+|Team Member| Vinicius de Sá | [![Linkedin Badge](https://www.linkedin.com/in/vinicius-s%C3%A1-a48a1479?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
