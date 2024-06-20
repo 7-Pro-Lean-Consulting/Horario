@@ -176,20 +176,6 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 
 | Função         | Nome              | LinkedIn & GitHub                                                                                         |
 |----------------|-------------------|-----------------------------------------------------------------------------------------------------------|
-| Product Owner  | Marcelo           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Scrum Master   | Caíque Matos      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caique-matos-santos-748a90150/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Team Member    | Antoni da Luz     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/antonio-da-luz-a21263235/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Team Member    | Gabriel Cunha     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/gabriel-cunha-a0747018b) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Team Member    | Mateus Nakahara   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-nakahara-0974791bb/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Team Member    | Reinaldo Ramos    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
-| Team Member    | Vinicius de Sá    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Viniciusluizi) |
-
-
-
-
-
-| Função         | Nome              | LinkedIn & GitHub                                                                                         |
-|----------------|-------------------|-----------------------------------------------------------------------------------------------------------|
 | Product Owner  | Marcelo           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/marcelohenrique2508) |
 | Scrum Master   | Caíque Matos      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caique-matos-santos-748a90150/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
 | Team Member    | Antoni da Luz     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/antonio-da-luz-a21263235/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/README.md) |
