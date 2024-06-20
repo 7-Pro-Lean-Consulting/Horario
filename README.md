@@ -106,6 +106,9 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 
 
 ## Burndown
+
+![Demonstração da Animação](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/402a28b4-6510-4e82-b7b5-c05108b7b9cb)
+
 ![Demonstração da Animação](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/gif.gif)
 
 ## Sprint 1 
