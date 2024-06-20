@@ -3,6 +3,7 @@
 
 Este projeto propõe a implementação do Scrum para melhorar a eficiência e o desempenho das equipes em um ambiente empresarial dinâmico. Priorizando entregas incrementais de alto valor através de ciclos curtos de trabalho (Sprints), o Scrum promove colaboração, transparência e adaptação contínua. Com papéis definidos e responsabilidades claras, busca-se não apenas aumentar a produtividade, mas também cultivar uma cultura de excelência e foco no cliente. A implementação do Scrum visa impulsionar o sucesso da organização no mercado competitivo, inspirando uma mudança positiva na forma de trabalhar e gerando impacto significativo nos resultados.
 
+![335824133-d4c32ca5-ae47-4cb7-ab18-2fd64240e305](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/4db7b21d-3c9a-44dd-bb9a-3f7fd25a2b44)
 
 
 
