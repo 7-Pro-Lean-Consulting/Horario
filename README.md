@@ -32,7 +32,7 @@ Este projeto propõe a implementação do Scrum para melhorar a eficiência e o 
 | 02             | 14/03/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%202/Relat%C3%B3rio%20sprint%202.pdf) |
 | 03             | 26/05/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Relatorio.do.projeto.sprint.3.pdf) |
 | 04             | 16/06/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%204%20do%20projeto%20integrador%20.pdf) |
-| Feira de Soluções | A espera  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 
+| Feira de Soluções |27/06/2024  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 
 
 [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc)
 
