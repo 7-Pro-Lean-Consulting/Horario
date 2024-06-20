@@ -64,10 +64,12 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - Classificação ABC ✅
  
 [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/4c341a4e-f3c4-4888-94e1-bcce45fb2bb3)](https://www.youtube.com/watch?v=8QkSUYQqCLY)
+# Sprint 4
+- Ideia de um novo segmento de mercado ✅
+![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/1dbcfa02-eb33-418e-9f6f-0eea46488ab0)
 
-![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/85e99b99-a49e-4e8a-aaad-8a85e2651d27)
 
-## Tecnologias Utilizadas
+
 ### Produto 
 - Sprint 1
   - Análise SWOT 
