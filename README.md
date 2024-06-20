@@ -172,9 +172,9 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Marcelo | [![Linkedin Badge]|
+|Product Owner| Marcelo | [[![Linkedin Badge](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| Caíque Matos | [![Linkedin Badge]|
-|Team Member| Antoni da Luz | [![Linkedin Badge]|
+|Team Member| Antoni da Luz | [![Linkedin Badge]https://www.linkedin.com/in/antonio-da-luz-a21263235/
 |Team Member| Gabriel Cunha | [![Linkedin Badge]|
 |Team Member| Mateus Nakahara | [![Linkedin Badge]|
 |Team Member| Reinaldo Ramos | [![Linkedin Badge]|
