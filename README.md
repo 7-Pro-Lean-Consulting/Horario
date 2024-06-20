@@ -54,22 +54,23 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
   
-   [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/73693487-8215-4bab-8a66-9f5de80744b7)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
-   
+   [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/3e9b2d34-48ed-4516-b25f-a95fb1ad7933)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
+
+
 # Sprint 2
 - Previsão de Demanda ✅
   
-[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/ab0e22c0-0a50-46eb-9d6d-8ebbf5ac7e56)](https://www.youtube.com/watch?v=DqZrXE74_yU)
+[!![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/67463ae1-3faf-4695-97b3-af372a136f03)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
 # Sprint 3
 - Classificação ABC ✅
  
-[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/31110739/4c341a4e-f3c4-4888-94e1-bcce45fb2bb3)](https://www.youtube.com/watch?v=8QkSUYQqCLY)
+[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/85648c33-b566-45db-8fe3-e17d4f4f74a1)](https://www.youtube.com/watch?v=8QkSUYQqCLY)
 
 # Sprint 4
 - Ideia de um novo segmento de mercado ✅
   
-[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/1b70f130-fe50-4362-9dd1-e6f03b7076ee)](https://www.youtube.com/watch?v=OwD8tj9Zo7UY)
+[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/08c7937d-a42e-4439-bae7-c3b4e46e9b91)](https://www.youtube.com/watch?v=OwD8tj9Zo7UY)
 
 
 ### Produto 
