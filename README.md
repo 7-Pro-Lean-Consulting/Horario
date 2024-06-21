@@ -173,7 +173,7 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 
 </details>
 
-
+# Autores
 | Função         | Nome              | LinkedIn & GitHub                                                                                         |
 |----------------|-------------------|-----------------------------------------------------------------------------------------------------------|
 | Product Owner  | Marcelo           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/marcelohenrique2508) |
