@@ -59,7 +59,7 @@ Realizar um estudo na  empresa Doce Sabor visando  identificar desafios, oferece
 # Sprint 2
 - Previsão de Demanda ✅
   
-[!![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/67463ae1-3faf-4695-97b3-af372a136f03)](https://www.youtube.com/watch?v=DqZrXE74_yU)
+[![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/67463ae1-3faf-4695-97b3-af372a136f03)](https://www.youtube.com/watch?v=DqZrXE74_yU)
 
 # Sprint 3
 - Classificação ABC ✅
